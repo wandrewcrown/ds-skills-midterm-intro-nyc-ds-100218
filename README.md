@@ -10,7 +10,7 @@ You will take one of the following datasets and apply a standard data science pr
 
 * Walmart Sales Forecasting
 * Estimating NYC Cab Trip Duration
-* Predicting Home Value
+* Lego Sets (previously seen)
 
 ## Project Outline
 * Load Data
